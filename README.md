@@ -41,9 +41,14 @@ I'm focused on building real-world apps using modern web technologies.
 
 ## 📈 GitHub Stats
 
-![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=PawanSinghKhnera02&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PawanSinghKhnera02&layout=compact&theme=radical)
+![Pawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PawanSinghKhnera02&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PawanSinghKhnera02&layout=compact&theme=tokyonight)
 
+---
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=PawanSinghKhnera02&theme=onedark&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
