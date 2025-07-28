@@ -28,10 +28,12 @@
 
 ---
 
+
 ## 📈 GitHub Stats
 
-![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pawan-khnera&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pawan-khnera&layout=compact&theme=radical)
+![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=PawanSinghKhnera02&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PawanSinghKhnera02&layout=compact&theme=radical)
+
 
 ---
 
