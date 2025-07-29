@@ -13,7 +13,7 @@ I love building real-world applications using modern web technologies and core c
 - 👨‍💻 I build things that solve real problems — from **responsive websites** to **functional full-stack dashboards**
 - 🧠 Always curious — exploring everything from **C++ & DSA** to **React, Node.js, and Express**
 - ⚙️ Strong foundation in **CS Fundamentals**:  
-  `Operating Systems`, `Computer Networks`, `DBMS`, `OOPs`, `IT Security`, `Computer Architecture`, `AI/ML`
+  `Operating Systems`, `Software Engineering`, `Computer Networks`, `DBMS`, `OOPs`, `IT Security`, `Computer Architecture`, `AI/ML`
 - 🌱 Currently mastering the **MERN Stack** and deploying personal projects
 - 📚 Skilled in **C, C++, JavaScript, SQL**, and familiar with **Python & R**
 - 🌍 I believe in learning-by-doing, collaborating, and writing clean, scalable code
