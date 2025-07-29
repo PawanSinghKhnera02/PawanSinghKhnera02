@@ -8,15 +8,17 @@
 ## 🚀 About Me
 
 I'm a passionate techie who blends **code with creativity** and **logic with life in the hills**.  
-I'm focused on building real-world apps using modern web technologies.
+I love building real-world applications using modern web technologies and core computer science principles.
 
 - 👨‍💻 I build things that solve real problems — from **responsive websites** to **functional full-stack dashboards**
-- 🧠 Always curious — I explore everything from **C++ & DSA** to **React, Node.js, and Express**
+- 🧠 Always curious — exploring everything from **C++ & DSA** to **React, Node.js, and Express**
+- ⚙️ Strong foundation in **CS Fundamentals**:  
+  `Operating Systems`, `Computer Networks`, `DBMS`, `OOPs`, `IT Security`, `Computer Architecture`, `AI/ML`
 - 🌱 Currently mastering the **MERN Stack** and deploying personal projects
-- 📚 Strong foundation in programming with C, C++, JavaScript, and SQL
+- 📚 Skilled in **C, C++, JavaScript, SQL**, and familiar with **Python & R**
 - 🌍 I believe in learning-by-doing, collaborating, and writing clean, scalable code
 - ✨ I enjoy the balance of **deep focus in front of the screen** and **peaceful rides in the mountains**
-- 📬 Let's connect: `pawansingh.khnera25@gmail.com`
+- 📬 Reach out to me: `pawansingh.khnera25@gmail.com`
 
 
 ---
