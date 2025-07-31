@@ -51,12 +51,6 @@ I love building real-world applications using modern web technologies and core c
 
 ---
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=PawanSinghKhnera02&theme=onedark&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## 🏆 Achievements
 
 - 🧑‍🎓 **Dean’s List Scholar** (Awarded in every semester for academic excellence)
