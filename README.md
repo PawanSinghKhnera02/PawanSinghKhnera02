@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Pawan Singh Khnera
 
-🎓 A passionate programmer from the hills of **Nainital, Uttarakhand**, currently exploring the tech world from **Dehradun**.  
-💻 I'm currently pursuing my **Master’s in Computer Applications (MCA)** from ICFAI University.
+🎓 A passionate programmer from the hills of **Nainital, Uttarakhand**, now exploring the tech world from **Dehradun**.  
+💻 Completed my **Master’s in Computer Applications (MCA)** from ICFAI University, with a strong focus on real-world projects and practical coding experience.
 
 ---
 
@@ -56,6 +56,7 @@ I love building real-world applications using modern web technologies and core c
 
 ## 🏆 Achievements
 
+- 🏅 **Gold Medalist** (MCA)
 - 🧑‍🎓 **Dean’s List Scholar** (Awarded in every semester for academic excellence)
 - 📁 Completed multiple real-world projects with professional UI and functionality
 - 🌐 Active contributor to personal & academic GitHub repositories
