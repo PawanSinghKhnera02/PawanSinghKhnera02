@@ -51,8 +51,6 @@ I love building real-world applications using modern web technologies and core c
 
 ![Pawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PawanSinghKhnera02&show_icons=true&theme=tokyonight&count_private=true)
 
-![Pawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PawanSinghKhnera02&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PawanSinghKhnera02&layout=compact&theme=tokyonight)
 
 ---
