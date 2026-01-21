@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Pawan Singh Khnera
 
 🎓 A passionate programmer from the hills of **Nainital, Uttarakhand**, now exploring the tech world from **Gurugram, India**.  
-💻 Completed my **Master’s in Computer Applications (MCA)** from ICFAI University, with a strong focus on real-world projects and practical coding experience.
+💻 Completed my **Master’s in Computer Applications (MCA)** from ICFAI University Dehradun, with a strong focus on real-world projects and practical coding experience.
 
 ---
 
